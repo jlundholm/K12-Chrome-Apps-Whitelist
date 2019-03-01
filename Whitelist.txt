@@ -67,11 +67,20 @@ https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdin
 Google Arts & Culture
 https://chrome.google.com/webstore/detail/google-arts-culture/akimgimeeoiognljlfchpbkpfbmeapkh
 
+Search by Image (by Google)
+https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm
+
+Google Tone
+https://chrome.google.com/webstore/detail/google-tone/nnckehldicaciogcbchegobnafnjkcne
+
 Camera
 https://chrome.google.com/webstore/detail/camera/hfhhnacclhffhdffklopdkcgdhifgngh
 
 Google Docs Quick Create
 https://chrome.google.com/webstore/detail/google-docs-quick-create/bldgenmjegcnjebiongilahhcjldgmlm
+
+OverDrive
+https://chrome.google.com/webstore/detail/overdrive/fnhgfoccpcjdnjcobejogdnlnidceemb
 
 Clever
 https://chrome.google.com/webstore/detail/clever/nopfnnpnopgmcnkjchnlpomggcdjfepo
@@ -339,4 +348,52 @@ https://chrome.google.com/webstore/detail/cloudy-calculator-2/gpnjkkgajfmdmbbpad
 
 Grammarly for Chrome
 https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen
+
+Collabrify Writer
+https://chrome.google.com/webstore/detail/collabrify-writer/loiihjjfbgbngkdepdnbkdilncjcljhh
+
+Drive Notepad
+https://chrome.google.com/webstore/detail/drive-notepad/gpgjomejfimnbmobcocilppikhncegaj
+
+Bible
+https://chrome.google.com/webstore/detail/bible/adplcelpohamiijahbaanmoimmnoaiaf
+
+LDS Scriptures
+https://chrome.google.com/webstore/detail/lds-scriptures/kcnjbofadkagcjingenimpdonldabmda
+
+After the Deadline
+https://chrome.google.com/webstore/detail/after-the-deadline/fcdjadjbdihbaodagojiomdljhjhjfho
+
+LaTeX, Desmos, and PDF extension
+https://chrome.google.com/webstore/detail/latex-desmos-and-pdf-exte/kkecifdokfegdcdmejfpambcjfppaing
+
+Smartsheet Web Forms
+https://chrome.google.com/webstore/detail/smartsheet-web-forms/pgpocnooohebkdhaegknphcjifcnhneg
+
+The QR Code Extension
+https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb
+
+Web Timer
+https://chrome.google.com/webstore/detail/web-timer/efkkjffdefaaioagghcaflicdajfhceo
+
+DynaMath
+https://chrome.google.com/webstore/detail/dynamath/fphbkjolhcfhkfkcdjmjiakckdpcmggd
+
+Clipboard History 2
+https://chrome.google.com/webstore/detail/clipboard-history-2/ajiejmhbejpdgkkigpddefnjmgcbkenk
+
+Right Inbox for Gmail
+https://chrome.google.com/webstore/detail/right-inbox-for-gmail/mflnemhkomgploogccdmcloekbloobgb
+
+Diigo Web Collector - Capture and Annotate
+https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh
+
+Learn States and Capitals
+https://chrome.google.com/webstore/detail/learn-states-and-capitals/cdblkfkcegbngjbibiefbjbeofmbgonk
+
+Marker.io: Visual feedback tool for teams
+https://chrome.google.com/webstore/detail/markerio-visual-feedback/jofhoojcehdmaiibilpcoofpdbbddkkl
+
+Canva
+https://chrome.google.com/webstore/detail/canva/mbcfmcoibkecmionmehabndbljdleekf
 
