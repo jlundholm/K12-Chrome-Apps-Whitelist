@@ -1,3 +1,19 @@
+Kiosk Apps
+Device Management > Chrome Management > Device Settings > Kiosk Apps
+
+AIRSecureTest
+https://chrome.google.com/webstore/detail/airsecuretest/hblfbmjdaalalhifaajnnodlkiloengc
+
+TestNav
+https://chrome.google.com/webstore/detail/testnav/mdmkkicfmmkgmpkmkdikhlbggogpicma
+
+DRC INSIGHT Online Assessments
+https://chrome.google.com/webstore/detail/drc-insight-online-assess/nickmpjdfebcopckkfjmflblnmijbiom
+
+
+Chrome Web Allowed Apps
+Device Management > Chrome Management > User Settings > Allowed Apps and Extensions
+
 G Suite Training
 https://chrome.google.com/webstore/detail/g-suite-training/idkloemkmldbemijiamdiolojbffnjlh
 
@@ -52,6 +68,9 @@ https://chrome.google.com/webstore/detail/google-sites/gmandedkgonhldbnjpikffdnn
 Google Dictionary (by Google)
 https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja
 
+Send from Gmail (by Google)
+https://chrome.google.com/webstore/detail/send-from-gmail-by-google/pgphcomnlaojlmmcjmiddhdapjpbgeoc
+
 Chrome OS US English Female HQ
 https://chrome.google.com/webstore/detail/chrome-os-us-english-fema/efdojdlmjknacnljjdedapanceanigkh
 
@@ -73,11 +92,23 @@ https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodk
 Google Tone
 https://chrome.google.com/webstore/detail/google-tone/nnckehldicaciogcbchegobnafnjkcne
 
+Earth View from Google Earth
+https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh
+
+Bookmark Manager
+https://chrome.google.com/webstore/detail/bookmark-manager/gmlllbghnfkpflemihljekbapjopfjik
+
+Google Play Books
+https://chrome.google.com/webstore/detail/google-play-books/mmimngoggfoobjdlefbcabngfnmieonb
+
 Camera
 https://chrome.google.com/webstore/detail/camera/hfhhnacclhffhdffklopdkcgdhifgngh
 
 Google Docs Quick Create
 https://chrome.google.com/webstore/detail/google-docs-quick-create/bldgenmjegcnjebiongilahhcjldgmlm
+
+Keep Awake
+https://chrome.google.com/webstore/detail/keep-awake/bijihlabcfdnabacffofojgmehjdielb
 
 OverDrive
 https://chrome.google.com/webstore/detail/overdrive/fnhgfoccpcjdnjcobejogdnlnidceemb
@@ -397,3 +428,530 @@ https://chrome.google.com/webstore/detail/markerio-visual-feedback/jofhoojcehdma
 Canva
 https://chrome.google.com/webstore/detail/canva/mbcfmcoibkecmionmehabndbljdleekf
 
+StudyMode.com
+https://chrome.google.com/webstore/detail/studymodecom/afhaomgjckjnioommpjdnanglalimoon
+
+Tynker for Educators
+https://chrome.google.com/webstore/detail/tynker-for-educators/kkepmjblejjegpnbpkdgpemmfhggdien
+
+Tynker - Learn to code
+https://chrome.google.com/webstore/detail/tynker-learn-to-code/gpddnfaibnhicdkfemlinafcljmfimla
+
+Readable Project Gutenberg
+https://chrome.google.com/webstore/detail/readable-project-gutenber/ikeknfmhjbljoochjhkgcffkpmigpjel
+
+Goobric Web App Launcher
+https://chrome.google.com/webstore/detail/goobric-web-app-launcher/cepmakjlanepojocakadfpohnhhalfol
+
+Goobric for Students
+https://chrome.google.com/webstore/detail/goobric-for-students/mpgknomjjgfnghhmhnhgpmanpkccgkoc
+
+Clicker Sentences
+https://chrome.google.com/webstore/detail/clicker-sentences/mjjoplcogfihnioljobfdpdcfplpcnbj
+
+countDown
+https://chrome.google.com/webstore/detail/countdown/fefdcjabloofphhfcinhfbinmehfcojm
+
+Music Player for Google Drive
+https://chrome.google.com/webstore/detail/music-player-for-google-d/hnfeekfpnjbdmelcapngdgkjnhgijjkh
+
+Cloud QRcode Barcode Scanner, Reader
+https://chrome.google.com/webstore/detail/cloud-qrcode-barcode-scan/enchgplbfgffjcekcnbjhgjbhipbbcfj
+
+VexTab Music Notation
+https://chrome.google.com/webstore/detail/vextab-music-notation/npcffdibegeppkebphaghnpkcjcpopjf
+
+Pixlr Editor
+https://chrome.google.com/webstore/detail/pixlr-editor/icmaknaampgiegkcjlimdiidlhopknpk
+
+Blender on rollApp
+https://chrome.google.com/webstore/detail/blender-on-rollapp/bdacondcffpkfgognbcfgeflmeiioiec
+
+HUMAN 3.0
+https://chrome.google.com/webstore/detail/human-30/meefjekipolcgabfgaclcpdkbghhmoah
+
+MeisterTask
+https://chrome.google.com/webstore/detail/meistertask/klffkpfdfjoefeolelhjkojljdoidoae
+
+Floorplanner
+https://chrome.google.com/webstore/detail/floorplanner/abopacaefhbognnmeigicfpgnmpideag
+
+UJAM - Make your music
+https://chrome.google.com/webstore/detail/ujam-make-your-music/apdiogojbmdncjdpljocafnigiokgmci
+
+piZap Photo Editor
+https://chrome.google.com/webstore/detail/pizap-photo-editor/occpjibghkbopohbefbejkklnfdkdmok
+
+Kindle Cloud Reader
+https://chrome.google.com/webstore/detail/kindle-cloud-reader/icdipabjmbhpdkjaihfjoikhjjeneebd
+
+Drive Word Cloud
+https://chrome.google.com/webstore/detail/drive-word-cloud/ielgnnbehadnmkcgpgnpmelggibcogdb
+
+Lucidpress | Free Design Tool
+https://chrome.google.com/webstore/detail/lucidpress-free-design-to/fdiljnnpfniifgbaippdemegmlhoohka
+
+Sketchboard.io
+https://chrome.google.com/webstore/detail/sketchboardio/bgafhjpdkfjfmmjbebbdckolonomaoil
+
+Research In Context
+https://chrome.google.com/webstore/detail/research-in-context/cdpefipjhdifekejcbbhmajabbfpaofm
+
+Realtimeboard for Education
+https://chrome.google.com/webstore/detail/realtimeboard-for-educati/jgbminfdblackehpaaiemmkceciacpke
+
+Stylebot
+https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha
+
+Sticky Notes
+https://chrome.google.com/webstore/detail/sticky-notes/nbjdhgkkhefpifbifjiflpaajchdkhpg
+
+DesignMantic
+https://chrome.google.com/webstore/detail/designmantic/abbmoibfpmcfmofhgjahikhgniacmebo
+
+Number Frames, by The Math Learning Center
+https://chrome.google.com/webstore/detail/number-frames-by-the-math/idlcfdihcafblaoadpfeofbcbcmfogbc
+
+Number Frames, by The Math Learning Center
+https://chrome.google.com/webstore/detail/number-frames-by-the-math/idlcfdihcafblaoadpfeofbcbcmfogbc
+
+Health-Food Frenzy
+https://chrome.google.com/webstore/detail/health-food-frenzy/mnmfdldblnpepcbhpbadjcmbagdoomjn
+
+Citable
+https://chrome.google.com/webstore/detail/citable/jfiabcklnnhkmkcdjjpmgghiimjkaeio
+
+Snap It Button
+https://chrome.google.com/webstore/detail/snap-it-button/kclagiidcihmjfnlfdboggonemfhcklk
+
+Notebook
+https://chrome.google.com/webstore/detail/notebook/hoecnkggfbggadilpmdhpmocnokhpgmp
+
+Remote for Slides
+https://chrome.google.com/webstore/detail/remote-for-slides/pojijacppbhikhkmegdoechbfiiibppi
+
+Checker Plus for Gmail™
+https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj
+
+Proofread Bot
+https://chrome.google.com/webstore/detail/proofread-bot/cjnnmmjgjaaomkcjibnncokikbianjap
+
+Storyboard That
+https://chrome.google.com/webstore/detail/storyboard-that/nlflnngknijojboglnnkonkcenocjepa
+
+Anyfile Notepad
+https://chrome.google.com/webstore/detail/anyfile-notepad/ghlichmdnegmcpafgmmlpkegmcndlndi
+
+Inkscape on rollApp
+https://chrome.google.com/webstore/detail/inkscape-on-rollapp/icjinnaagdniegmfejingjjhljhmkopj
+
+LibreOffice Writer on rollApp
+https://chrome.google.com/webstore/detail/libreoffice-writer-on-rol/gnibcjefjdpoannnhgmhoheglmepgggc
+
+LibreOffice Calc on rollApp
+https://chrome.google.com/webstore/detail/libreoffice-calc-on-rolla/bclbclclgmmigcadnicnjimilaoenlgn
+
+LibreOffice Impress on rollApp
+https://chrome.google.com/webstore/detail/libreoffice-impress-on-ro/aphkpmfcmpjnlnfilmgokeohlbealone
+
+LibreOffice Draw on rollApp
+https://chrome.google.com/webstore/detail/libreoffice-draw-on-rolla/apaghoiaeioepkngbmdaifpagmcmiafo
+
+3DView
+https://chrome.google.com/webstore/detail/3dview/hhngciknjebkeffhafnaodkfidcdlcao
+
+Scrum for Trello
+https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje
+
+HelloSign for Gmail
+https://chrome.google.com/webstore/detail/hellosign-for-gmail/dciflieigdmogpmamcgbigingaodhnil
+
+My Homework Reminder
+https://chrome.google.com/webstore/detail/my-homework-reminder/jkfnehckplkpicbhiajnggoendjcendc
+
+Todoist for Gmail
+https://chrome.google.com/webstore/detail/todoist-for-gmail/clgenfnodoocmhnlnpknojdbjjnmecff
+
+Todoist for Chrome
+https://chrome.google.com/webstore/detail/todoist-for-chrome/bgjohebimpjdhhocbknplfelpmdhifhd
+
+Flat - Music scores and guitar tabs editor
+https://chrome.google.com/webstore/detail/flat-music-scores-and-gui/mgfkpiieempkmppimblkblmlcmbdkbcg
+
+Britannica Insights
+https://chrome.google.com/webstore/detail/britannica-insights/hfipegnjbpgdlgifpfdcfnjnhepckmbf
+
+Dictanote
+https://chrome.google.com/webstore/detail/dictanote/aomjekmpappghadlogpigifkghlmebjk
+
+Capitals
+https://chrome.google.com/webstore/detail/capitals/hknjpfmofgpecngeknegnfafjmmficah
+
+MapClass
+https://chrome.google.com/webstore/detail/mapclass/faedcegfohpjdncchlhlfcfinnfjmmjc
+
+Vocabulary.com
+https://chrome.google.com/webstore/detail/vocabularycom/nacjcabfneebdomlmehblfinaepipepd
+
+Clicker Docs
+https://chrome.google.com/webstore/detail/clicker-docs/glmkaoamkcjbpchpndkllpkonadidamf
+
+Sphero Edu
+https://chrome.google.com/webstore/detail/sphero-edu/hfiocchbmngcelgfdcfbepgoipapddlh
+
+MuseScore on rollApp
+https://chrome.google.com/webstore/detail/musescore-on-rollapp/lajkcaalkdbnkbaljaldmoahhfjlbgad
+
+WeVideo - Video Editor and Maker
+https://chrome.google.com/webstore/detail/wevideo-video-editor-and/okgjbfikepgflmlelgfgecmgjnmnmnnb
+
+Typing Test - KeyHero
+https://chrome.google.com/webstore/detail/typing-test-keyhero/jkcieoaeooeidmpaopkpjpjfakidlabm
+
+flowkey - Learn piano
+https://chrome.google.com/webstore/detail/flowkey-learn-piano/jlmilmpimaepjkihnncinbaooibgelhm
+
+Piktochart
+https://chrome.google.com/webstore/detail/piktochart/ojgpilphbpmpjlicfhhkgnfbedaeegil
+
+OneTab
+https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
+
+Quizlet
+https://chrome.google.com/webstore/detail/quizlet/bgofflgeghkhocbociocnckocbjmomjh
+
+VideoNot.es
+https://chrome.google.com/webstore/detail/videonotes/gfpamkcpoehaekolkipeomdbaihfdbdp
+
+Britannica Escolar
+https://chrome.google.com/webstore/detail/britannica-escolar/kjhegkfjihiekcniccimlfbafpoccemn
+
+goo.gl URL Shortener (Unofficial)
+https://chrome.google.com/webstore/detail/googl-url-shortener-unoff/iblijlcdoidgdpfknkckljiocdbnlagk
+
+Explain Everything™
+https://chrome.google.com/webstore/detail/explain-everything/abgfnbfplmdnhfnonljpllnfcobfebag
+
+Owlsee Reader
+https://chrome.google.com/webstore/detail/owlsee-reader/pjmmkmkbmjgeobhndjjmjjhodngjgpab
+
+Britannica Pathways: Science
+https://chrome.google.com/webstore/detail/britannica-pathways-scien/hocbpaaeaomikmnhfponbdbmoggebgmj
+
+Chameleon
+https://chrome.google.com/webstore/detail/chameleon/acdpiemklcfaoglpjmidpjdbhkgdoede
+
+QuizCards: US Capitals
+https://chrome.google.com/webstore/detail/quizcards-us-capitals/jlhcfbghojkmhebppenhjhhjejdcblja
+
+QuizCards: World Capitals
+https://chrome.google.com/webstore/detail/quizcards-world-capitals/nikenaeclebghemphbkfedjndafkfjan
+
+Sketchpad
+https://chrome.google.com/webstore/detail/sketchpad/lkllajgbhondgjjnhmmgbjndmogapinp
+
+Diigo Read Later
+https://chrome.google.com/webstore/detail/diigo-read-later/jooajjfbnpnafgndfpeboaehpddfglaj
+
+StudentCreated.TV
+https://chrome.google.com/webstore/detail/studentcreatedtv/joedkkbdmjnbnkcimiciacbmlakbnajm
+
+Kaizena Web App
+https://chrome.google.com/webstore/detail/kaizena-web-app/lhiccpgcnopcjjdobhoddnplkebplfaj
+
+Audiotool
+https://chrome.google.com/webstore/detail/audiotool/bkgoccjhfjgjedhkiefaclppgbmoobnk
+
+Loupe Collage
+https://chrome.google.com/webstore/detail/loupe-collage/bhaonknplhhecdgjpphnooeomecgipkc
+
+LibreCAD on rollApp
+https://chrome.google.com/webstore/detail/librecad-on-rollapp/gbalmmdepliaghihofedeopaacjfcgab
+
+Bitmoji
+https://chrome.google.com/webstore/detail/bitmoji/bfgdeiadkckfbkeigkoncpdieiiefpig
+
+My Diary
+https://chrome.google.com/webstore/detail/my-diary/igfnkanfehhehlajnhpajibfcfgkaikl
+
+Tab Resize - split screen layouts
+https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc
+
+Duolingo on the Web
+https://chrome.google.com/webstore/detail/duolingo-on-the-web/aiahmijlpehemcpleichkcokhegllfjl
+
+Progress Bar Timer
+https://chrome.google.com/webstore/detail/progress-bar-timer/lmnlbapfmmoaehepmgbkgfcgpddlhbko
+
+Beatlab
+https://chrome.google.com/webstore/detail/beatlab/alnfdikmbdfgkcbdodjcbmedanjinmkk
+
+Global Issues In Context
+https://chrome.google.com/webstore/detail/global-issues-in-context/mipjkbpeeabmhjkjafceoikmnjlbkppc
+
+Remind
+https://chrome.google.com/webstore/detail/remind/jppddpkfhdojffabldnpdacpeoefcljp
+
+Planner 5D - Interior Design
+https://chrome.google.com/webstore/detail/planner-5d-interior-desig/mcafejemebbngbglfoinpoaannbihjna
+
+Exploring Physics
+https://chrome.google.com/webstore/detail/exploring-physics/kklieabdjnojdopjnjcdhebcgpeofcig
+
+Ultra Timer
+https://chrome.google.com/webstore/detail/ultra-timer/laohhcnmipbidhjomikgbmdgckopbgnb
+
+Splash Math - Kindergarten & Grades 1,2,3,4,5
+https://chrome.google.com/webstore/detail/splash-math-kindergarten/jnhgahdncfnbbceeeoogallakggdjkdp
+
+Cite This For Me: Web Citer
+https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle
+
+EasyBib Toolbar
+https://chrome.google.com/webstore/detail/easybib-toolbar/hmffdimoneaieldiddcmajhbjijmnggi
+
+piZap Extension
+https://chrome.google.com/webstore/detail/pizap-extension/okkhakdhndfahinanaadokakjeeobdak
+
+Literature Resource Center
+https://chrome.google.com/webstore/detail/literature-resource-cente/cnilelbdpjaanpmjmnmnodboicfgedeh
+
+Wunderlist for Chrome
+https://chrome.google.com/webstore/detail/wunderlist-for-chrome/ojcflmmmcfpacggndoaaflkmcoblhnbh
+
+Doodle
+https://chrome.google.com/webstore/detail/doodle/jbmblniplnhgnnhbefhegahmajplfbnb
+
+Fun with Anatomy: 3D Skeletal Edition
+https://chrome.google.com/webstore/detail/fun-with-anatomy-3d-skele/edaipbgjneincgihdfdbmjfeobinapea
+
+Native Video Recorder
+https://chrome.google.com/webstore/detail/native-video-recorder/adpmbpjeaogcnegjcpgdabnilfdkfdnd
+
+Planner 5D
+https://chrome.google.com/webstore/detail/planner-5d/gjfkgdpkecnmfcgfpfibpcnkeakahllc
+
+TinEye Reverse Image Search
+https://chrome.google.com/webstore/detail/tineye-reverse-image-sear/haebnnbpedcbhciplfhjjkbafijpncjl
+
+PicMonkey
+https://chrome.google.com/webstore/detail/picmonkey/fgdgokchhicmaiacmgegjnppjkgogdhm
+
+PicMonkey Extension
+https://chrome.google.com/webstore/detail/picmonkey-extension/dhipmoghimfdldnocmopeoanjmoolofl
+
+Omnibox Timer
+https://chrome.google.com/webstore/detail/omnibox-timer/iooaeaogjngpihndkcednkblomlkaaif
+
+Symbaloo
+https://chrome.google.com/webstore/detail/symbaloo/dfnbdccaiknlpdgabdgjijniolkgmoeh
+
+Symbaloo Bookmarker 0.5.0
+https://chrome.google.com/webstore/detail/symbaloo-bookmarker-050/cnjfgbikbkcmickdalamlmpmkhmbollm
+
+Symbaloo Homepage 2
+https://chrome.google.com/webstore/detail/symbaloo-homepage-2/ipmeajfmcoafocgllabadecddnaabakj
+
+StudyBlue
+https://chrome.google.com/webstore/detail/studyblue/hiicppnmnhhkaaboclnefgkbnpkompmh
+
+Web Paint
+https://chrome.google.com/webstore/detail/web-paint/emeokgokialpjadjaoeiplmnkjoaegng
+
+CodeCombat
+https://chrome.google.com/webstore/detail/codecombat/lakhjipibopbckhkaokkojaaekahboea
+
+Nearpod
+https://chrome.google.com/webstore/detail/nearpod/cenpjcpgdbogmgdfhhckdbnepedjkmok
+
+Draftback
+https://chrome.google.com/webstore/detail/draftback/nnajoiemfpldioamchanognpjmocgkbg
+
+Booktrack Classroom
+https://chrome.google.com/webstore/detail/booktrack-classroom/odmndfiaonleilpbajajkijoihjemocc
+
+Number Rack, by The Math Learning Center
+https://chrome.google.com/webstore/detail/number-rack-by-the-math-l/pdblapgbfbphhldogcijidlkbcgokfkc
+
+Poll Everywhere for Google Slides
+https://chrome.google.com/webstore/detail/poll-everywhere-for-googl/jeehnidbmlhpkncbplipfalpjkhlokaa
+
+Speed Dial 2 New tab
+https://chrome.google.com/webstore/detail/speed-dial-2-new-tab/jpfpebmajhhopeonhlcgidhclcccjcik
+
+MyVocab
+https://chrome.google.com/webstore/detail/myvocab/npfplmfmbflbcffpkpgmhpinemlimnnc
+
+CES Typing Agent
+https://chrome.google.com/webstore/detail/ces-typing-agent/mdkggmbfjapelliifekmaphipljomigm
+
+NoRedInk
+https://chrome.google.com/webstore/detail/noredink/gbkjhclpbchhhcoaedejpkdpmcgpghld
+
+myHomework Student Planner
+https://chrome.google.com/webstore/detail/myhomework-student-planne/pembccdigcahnckbjcbehhcacplbbomj
+
+Vim on rollApp
+https://chrome.google.com/webstore/detail/vim-on-rollapp/iclicjdkmddehpfpngcoappmfcagbman
+
+Typing Agent
+https://chrome.google.com/webstore/detail/typing-agent/mochklkahnceihomooabomcgemodiogi
+
+BeFunky Photo Editor
+https://chrome.google.com/webstore/detail/befunky-photo-editor/apfkepiiddolifkgjmfdgpnipgnfejab
+
+Noisli Presets
+https://chrome.google.com/webstore/detail/noisli-presets/njkoflafigjlbfcijcflnbgnnogcgpmj
+
+Session Buddy
+https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko
+
+Money Pieces, by The Math Learning Center
+https://chrome.google.com/webstore/detail/money-pieces-by-the-math/bkidjlafelhjjkdhlbmbpneaofghikcg
+
+Geoboard, by The Math Learning Center
+https://chrome.google.com/webstore/detail/geoboard-by-the-math-lear/gaakmmdiopnmcenkojohldanladpajak
+
+Storybird
+https://chrome.google.com/webstore/detail/storybird/khnkljecljfpgcoafnmoaanlhepgbfof
+
+Number Pieces, by The Math Learning Center
+https://chrome.google.com/webstore/detail/number-pieces-by-the-math/fhcpnppigjdhghbohcbogmmhmfkobgbm
+
+Desmos Graphing Calculator
+https://chrome.google.com/webstore/detail/desmos-graphing-calculato/bhdheahnajobgndecdbggfmcojekgdko
+
+Number Line, by The Math Learning Center
+https://chrome.google.com/webstore/detail/number-line-by-the-math-l/ociighkhkffcoplfkofojilfjholclge
+
+EquatIO - Math made digital
+https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc
+
+Mercury Reader
+https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi
+
+Study Planner - Gets Homework & Essays Done
+https://chrome.google.com/webstore/detail/study-planner-gets-homewo/oigefcidhkeifchgbnknfmgdapejholn
+
+Highlight tool
+https://chrome.google.com/webstore/detail/highlight-tool/bocgmaooafgikalnonpaccinefpncobc
+
+Scribus on rollApp
+https://chrome.google.com/webstore/detail/scribus-on-rollapp/eefjfbijdpikldldhdjngddehoakejdm
+
+Pattern Shapes, by The Math Learning Center
+https://chrome.google.com/webstore/detail/pattern-shapes-by-the-mat/moheohlmdhjkibapcidpmdponeaefnoi
+
+GIMP on rollApp
+https://chrome.google.com/webstore/detail/gimp-on-rollapp/eodhmnkhmnkmimhckfpkgmbmcgjkaddo
+
+Fractions, by The Math Learning Center
+https://chrome.google.com/webstore/detail/fractions-by-the-math-lea/ggebicodjlnlcnlnfmbnhihkmoblhmio
+
+SketchUp for Schools
+https://chrome.google.com/webstore/detail/sketchup-for-schools/lfhlekccjamfkfmjgnpbdjpecanfbjkl
+
+BIODIGITAL HUMAN
+https://chrome.google.com/webstore/detail/biodigital-human/agoenciogemlojlhccbcpcfflicgnaak
+
+Plotly
+https://chrome.google.com/webstore/detail/plotly/hfjjbcodmdgnpngccdnefheadifbmmei
+
+Snap&Read Universal
+https://chrome.google.com/webstore/detail/snapread-universal/mloajfnmjckfjbeeofcdaecbelnblden
+
+Fluency Tutor® for Google™
+https://chrome.google.com/webstore/detail/fluency-tutor%C2%AE-for-google/ejajakfhhhhkifioabcekjjlhpoiijfa
+
+Coding with Chrome
+https://chrome.google.com/webstore/detail/coding-with-chrome/becloognjehhioodmnimnehjcibkloed
+
+Pixlr Express
+https://chrome.google.com/webstore/detail/pixlr-express/hojmjpdlmjopaeginhldhiokeidchjid
+
+Type Fu
+https://chrome.google.com/webstore/detail/type-fu/pofoighmmpljaikjiidkkfhldjndfdbk
+
+Desmos Test Mode
+https://chrome.google.com/webstore/detail/desmos-test-mode/ppkkplnhefiifjmgokbhhjebbddhiipf
+
+HP Print for Chrome
+https://chrome.google.com/webstore/detail/hp-print-for-chrome/cjanmonomjogheabiocdamfpknlpdehm
+
+Trello
+https://chrome.google.com/webstore/detail/trello/dmdidbedhnbabookbkpkgomahnocimke
+
+LastPass: Free Password Manager
+https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd
+
+Power Thesaurus
+https://chrome.google.com/webstore/detail/power-thesaurus/hhnjkanigjoiglnlopahbbjdbfhkndjk
+
+Save to Pocket
+https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj
+
+Quora - Save to Pocket
+https://chrome.google.com/webstore/detail/quora-save-to-pocket/lllehdhoocnpkkhpnoonnpcfcjmnmlil
+
+MindMup 2.0 - Free Mind Map web site
+https://chrome.google.com/webstore/detail/mindmup-20-free-mind-map/mkgkheknpfngchmoaognoilfanomldfl
+
+Lucidchart for Education
+https://chrome.google.com/webstore/detail/lucidchart-for-education/gdbabpaggdgcakhjllleobffeghmhjme
+
+Seesaw: The Learning Journal
+https://chrome.google.com/webstore/detail/seesaw-the-learning-journ/adnohgfkodfphemhddnmikhflkolfjfh
+
+Thesaurus: Synonym 4 Right Click
+https://chrome.google.com/webstore/detail/thesaurus-synonym-4-right/lpkpcliecpgjbkffooidajhakoidhidh
+
+Pocket
+https://chrome.google.com/webstore/detail/pocket/mjcnijlhddpbdemagnpefmlkjdagkogk
+
+Nearpodize
+https://chrome.google.com/webstore/detail/nearpodize/obaclhgeioenpfkcekijanhfbfhhbkig
+
+Momentum
+https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca
+
+Select and Speak - Text to Speech
+https://chrome.google.com/webstore/detail/select-and-speak-text-to/gfjopfpjmkcfgjpogepmdjmcnihfpokn
+
+OverDrive
+https://chrome.google.com/webstore/detail/overdrive/fnhgfoccpcjdnjcobejogdnlnidceemb
+
+VLC
+https://chrome.google.com/webstore/detail/vlc/obpdeolnggmbekmklghapmfpnfhpcndf
+
+Genie - Extemp, Congress, Debate
+https://chrome.google.com/webstore/detail/genie-extemp-congress-deb/efadmbnnoammocppapaojgggfdnelmde
+
+Nimbus Screenshot & Screen Video Recorder
+https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj
+
+Office Online
+https://chrome.google.com/webstore/detail/office-online/ndjpnladcallmjemlbaebfadecfhkepb
+
+Google Play Music
+https://chrome.google.com/webstore/detail/google-play-music/icppfcnhkcmnfdhfhphakoifcfokfdhg
+
+Scribe Text Editor
+https://chrome.google.com/webstore/detail/scribe-text-editor/dibbaaheaneakpnjljinhlghfljilakb
+
+Screen Shader | F.lux for Chrome
+https://chrome.google.com/webstore/detail/screen-shader-flux-for-ch/fmlboobidmkelggdainpknloccojpppi
+
+Grammar and Spelling checker by Ginger
+https://chrome.google.com/webstore/detail/grammar-and-spelling-chec/kdfieneakcjfaiglcfcgkidlkmlijjnh
+
+StudySync
+https://chrome.google.com/webstore/detail/studysync/efgelboigboejhfpooedjgmcfcemlijj
+
+Etymonline
+https://chrome.google.com/webstore/detail/etymonline/giehjnnlopapngdjbjjgddpaagoimmgl
+
+Adobe Acrobat
+https://chrome.google.com/webstore/detail/adobe-acrobat/efaidnbmnnnibpcajpcglclefindmkaj
+
+VMware View
+https://chrome.google.com/webstore/detail/vmware-view/ijgbhebamoaebjfmpiaeihjfbejbpgfd
